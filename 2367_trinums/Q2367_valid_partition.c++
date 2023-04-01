@@ -74,7 +74,6 @@ int arithmeticTriplets_hm(vector<int>& nums, int diff) {
 /*
     ## 三指针
 
-
 */
 int arithmeticTriplets_t(vector<int>& nums, int diff) {
         int count = 0;
